@@ -1,0 +1,17 @@
+# Jekelly configuration
+baseurl: /
+
+permalink: pretty
+markdown: rdiscount
+pygments: true
+server: true
+server_port: 8006
+auto: true
+include: [documentation]
+
+# site configuration
+title: InteractuaMovil
+author:
+    name: Pablo Rosales
+    email: pablo.rosales@interactuamovil.com
+    github: PabloRosales
